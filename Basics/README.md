@@ -24,6 +24,7 @@ Explanation: 8 > 4 so print 'greater'.
 
 ### Expected Complexities
 **Time Complexity:** O(1)
+
 **Auxiliary Space:** O(1)
 
 ### Topic

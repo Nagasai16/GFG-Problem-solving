@@ -19,13 +19,12 @@ Explanation: 8 = 8 so print 'equal'.
 Output: greater
 Explanation: 8 > 4 so print 'greater'.
 ```
-**Constraints:**
+### Constraints:
 -109 <= m , n <= 109
 
-**Expected Complexities**
-### Time Complexity: O(1)
-
-### Auxiliary Space: O(1)
+### Expected Complexities
+**Time Complexity:** O(1)
+**Auxiliary Space:** O(1)
 
 ### Topic
 Java

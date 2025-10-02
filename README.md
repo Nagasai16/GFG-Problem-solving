@@ -1,2 +1,2 @@
 # GFG-Problem-solving
-Java Problem Solving
+Practicing and solving daily coding challenges from GeeksforGeeks, with Java-based solutions emphasizing Data Structures and Algorithms.

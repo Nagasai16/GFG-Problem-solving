@@ -1,4 +1,3 @@
-// User function Template for Java
 import java.io.*;
 import java.util.*;
 
